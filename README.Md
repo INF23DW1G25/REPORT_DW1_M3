@@ -13,23 +13,20 @@ O tema escolhido foi a criação de uma API para uma todo-list que é constituí
 
 ## Organização do repositório
 
-- [Source code](https://github.com/INF23DW1G25/REPORT_DW1_M2)
-- [Postman](https://github.com/INF23DW1G25/REPORT_DW1_M2/tree/master/Postman)
-- [Imagens](https://github.com/INF23DW1G25/REPORT_DW1_M2/tree/master/docs/images)
+- [Source code](https://github.com/INF23DW1G25/REPORT_DW1_M3/tree/master)
+- [Imagens](https://github.com/INF23DW1G25/REPORT_DW1_M3/tree/master/docs/images)
 
 ## Galeria
 
-### Swagger IO - OpenAPI 3.0
+### Loopback 4
 
-![swagger](https://github.com/INF23DW1G25/REPORT_DW1_M2/blob/master/docs/images/Swagger/swagger_resources.png)
-As restantes imagens encontram-se em [/doc/images/Swagger](https://github.com/INF23DW1G25/REPORT_DW1_M2/blob/master/docs/images/Swagger)
+![Loopback 4](https://github.com/INF23DW1G25/REPORT_DW1_M3/blob/master/docs/images/LB4-OPENAPI3.0/localhost_porto3000.png)
 
 ### Docker
 
-![docker](https://github.com/INF23DW1G25/REPORT_DW1_M2/blob/master/docs/images/Docker/Containers.png)
-As restantes imagens encontram-se em [/doc/images/Docker](https://github.com/INF23DW1G25/REPORT_DW1_M2/tree/master/docs/images/Docker)
+![docker](https://github.com/INF23DW1G25/REPORT_DW1_M3/blob/master/docs/images/Docker/docker_containers.png)
 
-### Postman
+### LB4 Controllers
 
 ![postman](https://github.com/INF23DW1G25/REPORT_DW1_M2/blob/master/docs/images/Postman/postman_collection.png)
 
@@ -51,6 +48,7 @@ As restantes imagens encontram-se em [/doc/images/Docker](https://github.com/INF
 - Capitulo 3: [Desenvolvimento](docs/files/file3.md)
 
 ### Dockerhub
+
 [DockerHub](https://hub.docker.com/repository/docker/dw1m2g25/report_dw1_m3/general)
 
 
