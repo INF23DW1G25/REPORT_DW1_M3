@@ -20,7 +20,7 @@ O tema escolhido foi a criação de uma API para uma todo-list que é constituí
 
 ### Loopback 4
 
-![Loopback 4](https://github.com/INF23DW1G25/REPORT_DW1_M3/blob/master/docs/images/LB4-OPENAPI3.0/localhost_porto3000.png)
+![Loopback 4](https://github.com/INF23DW1G25/REPORT_DW1_M3/blob/master/docs/images/Lb4/localhost_porto3000.png)
 
 ### Docker
 
@@ -28,7 +28,8 @@ O tema escolhido foi a criação de uma API para uma todo-list que é constituí
 
 ### LB4 Controllers
 
-![postman](https://github.com/INF23DW1G25/REPORT_DW1_M2/blob/master/docs/images/Postman/postman_collection.png)
+![postman](https://github.com/INF23DW1G25/REPORT_DW1_M3/blob/master/docs/images/Lb4/allControllers.png)
+As restantes imagens encontram-se em [/docs/images/Lb4](https://github.com/INF23DW1G25/REPORT_DW1_M3/tree/master/docs/images/Lb4)
 
 ## Tecnologias
 
