@@ -36,6 +36,7 @@ As restantes imagens encontram-se em [/docs/images/Lb4](https://github.com/INF23
 - [nodeJS](https://nodejs.org/en/)
 - [MySQL](https://www.mysql.com/)
 - [Docker](https://www.docker.com/)
+- [Postman](https://www.postman.com/)
 
 ### Frameworks e Bibliotecas
 

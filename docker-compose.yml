@@ -2,7 +2,7 @@ version: "3.7"
 services:
   db:
     container_name: todo-mysql
-    image: mysql:5.7
+    image: dw1m2g25/report_dw1_m3:todo-mysql
     command:
       - --character-set-server=utf8mb4
       - --default-authentication-plugin=mysql_native_password
@@ -18,7 +18,7 @@ services:
     depends_on:
       - db
     container_name: lb4-todo-list
-    build: ./lb4-todo-list
+    image: dw1m2g25/report_dw1_m3:lb4-todo-list
     environment:
       NODE_ENV: production
     ports:
@@ -26,14 +26,14 @@ services:
     networks:
       - todo-network
   react-admin:
+    depends_on:
+      - lb4
     container_name: todo-react-admin
-    build: ./todo-list-react_admin
+    image: dw1m2g25/report_dw1_m3:todo-react-admin
     ports:
       - 3006:3006  
     networks:
       - todo-network
-    depends_on:
-      - lb4
 
 networks:
   todo-network:
