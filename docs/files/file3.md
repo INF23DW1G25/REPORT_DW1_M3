@@ -30,6 +30,7 @@ Em cumprimento com os requisitos propostos e após a construção de todos os m�
 
 O resultado foi a criação de três imagens, o todo-react-admin, lb4-todo-list e todo-mysql.
 Podemos ver as imagens em funcionamento na figura que se encontra em baixo.
+
 ![docker](https://github.com/INF23DW1G25/REPORT_DW1_M3/blob/master/docs/images/Docker/docker_containers.png)
 
 
